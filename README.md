@@ -8,6 +8,15 @@
 <img src=".\.readme\lobster-signin.png" width="500">
 <img src=".\.readme\lobster-index.png" width="500">
 
+# Links
+singup/login:
+https://fuzzy-dogmadmats.surge.sh/signup
+
+Home page:
+https://fuzzy-dogmadmats.surge.sh/
+
+profile page: 
+https://fuzzy-dogmadmats.surge.sh/profile
 # Goal
 
 To apply knowledge of Bootstrap, Tailwind and SASS to build a responsive front end for a social media application.
