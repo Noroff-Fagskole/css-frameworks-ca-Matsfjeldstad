@@ -2,11 +2,18 @@
 
 # CSS Framework CA
 
+# Screenshots
+
+<img src=".\.readme\lobster-test.png" width="500">
+<img src=".\.readme\lobster-signin.png" width="500">
+<img src=".\.readme\lobster-index.png" width="500">
+
 # Goal
 
 To apply knowledge of Bootstrap, Tailwind and SASS to build a responsive front end for a social media application.
 
 # Brief
+
 You are tasked with creating 3 pages in HTML using Bootstrap or Tailwind or SASS:
 
 - Homepage
@@ -21,8 +28,7 @@ You are tasked with creating 3 pages in HTML using Bootstrap or Tailwind or SASS
 
 4. You will only be working on the visuals for this project at this stage, forms do not need to submit data, for example.
 
-5. Submission for this project will follow the pattern used in professional development. 
-
+5. Submission for this project will follow the pattern used in professional development.
 
 # Process
 
